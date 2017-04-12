@@ -24,7 +24,9 @@ I have followed the [MHN wiki](https://github.com/threatstream/mhn/wiki/Getting-
 
 - [ ] A basic writeup of the attack (what offensive tools were used, what specifically was detected by the honeypot)
 - [ ] An example of the data captured by the honeypot (example: IDS logs including IP, request paths, alerts triggered)
-- [ ] A screen-cap of the attack being conducted
+- [x] A screen-cap of the attack being conducted
+
+<img src='Project8Demo2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
     
 ### Optional: Features
 - Honeypot
