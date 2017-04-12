@@ -26,7 +26,7 @@ I have followed the [MHN wiki](https://github.com/threatstream/mhn/wiki/Getting-
 - [ ] An example of the data captured by the honeypot (example: IDS logs including IP, request paths, alerts triggered)
 - [x] A screen-cap of the attack being conducted
 
-<img src='Project8Demo2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Project8Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
     
 ### Optional: Features
 - Honeypot
