@@ -26,7 +26,7 @@ I have followed the [MHN wiki](https://github.com/threatstream/mhn/wiki/Getting-
 - [x] An example of the data captured by the honeypot (example: IDS logs including IP, request paths, alerts triggered)
 - [x] A screen-cap of the attack being conducted
 
-I used nmap on the honeypot. 
+I used nmap on a Dionaea honeypot. 
 
 <img src='Project8Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
     
