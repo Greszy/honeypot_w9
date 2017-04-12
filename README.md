@@ -22,9 +22,11 @@ I have followed the [MHN wiki](https://github.com/threatstream/mhn/wiki/Getting-
 
 ### Required: Demonstration
 
-- [ ] A basic writeup of the attack (what offensive tools were used, what specifically was detected by the honeypot)
-- [ ] An example of the data captured by the honeypot (example: IDS logs including IP, request paths, alerts triggered)
+- [x] A basic writeup of the attack (what offensive tools were used, what specifically was detected by the honeypot)
+- [x] An example of the data captured by the honeypot (example: IDS logs including IP, request paths, alerts triggered)
 - [x] A screen-cap of the attack being conducted
+
+I used nmap on the honeypot. 
 
 <img src='Project8Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
     
